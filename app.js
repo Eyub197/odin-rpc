@@ -6,3 +6,8 @@
     let computerChoice = choice[randomIndex]
     return computerChoice
 }
+
+let getPlayerChoice = () => {
+    let choice = prompt("Choose rock paper or scissors :")
+    return choice
+}
