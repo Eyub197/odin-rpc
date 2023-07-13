@@ -1,4 +1,4 @@
-onst buttons = document.querySelectorAll('button');
+const buttons = document.querySelectorAll('button');
     const resultsDiv = document.getElementById('results');
     let playerScore = 0;
     let computerScore = 0;
